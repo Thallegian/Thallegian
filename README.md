@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 🫡
+
+I'm slowly working on my first project. Readme will be expanded when I finish.
+Learning Python and C# by coding desktop apps.
 
 <!--
 **Thallegian/Thallegian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
