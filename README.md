@@ -1,13 +1,12 @@
-## Hi there 🫡
+# Hi there 🫡
 
-I'm slowly working on my first project. Readme will be expanded when I finish.
-Learning Python and C# by coding desktop apps.
-
+I'm slowly working on my first project.  
+  
+Currently learning **C#** & **Python**.  
+  
+Readme will be expanded when I finish.
 <!--
-**Thallegian/Thallegian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
